@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeyanVaskov
 - 💻Technical Engineer at Salesforce
-- 🌱 Currently learning Python, SQL
+- 🌱 Currently learning Python, SQL, Linux
 
 
 <!---
